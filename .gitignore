@@ -1,0 +1,3 @@
+curso-docker/desafio/nginx/mysql/*
+curso-docker/docker-compose-testfiles/node-mysql/mysql/*
+**/node_modules/

@@ -1,0 +1,16 @@
+FROM golang:alpine3.14 as builder
+
+WORKDIR /bin/go
+
+COPY ./hello /bin/go
+
+RUN go env GOOS=linux && \
+    go env CGO_ENABLED=0 && \
+    go env -w GO111MODULE=off && \
+    go build -o . .
+
+FROM scratch
+
+WORKDIR /bin
+
+COPY --from=builder /bin/go .
