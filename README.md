@@ -26,3 +26,7 @@
 1. [Index](/curso-docker/docker-compose/readme.md)
 2. [Comandos](/curso-docker/docker-compose/01.comandos.md)
 2. [Mysql com Docker Compose](/curso-docker/docker-compose/02.myqsl-com-docker-compose.md)
+
+<p>LGPD<p>
+
+1. [Index](/curso-docker/lgpd/readme.md)
