@@ -25,8 +25,14 @@
 
 1. [Index](/curso-docker/docker-compose/readme.md)
 2. [Comandos](/curso-docker/docker-compose/01.comandos.md)
-2. [Mysql com Docker Compose](/curso-docker/docker-compose/02.myqsl-com-docker-compose.md)
+3. [Mysql com Docker Compose](/curso-docker/docker-compose/02.myqsl-com-docker-compose.md)
 
 <p>LGPD<p>
 
-1. [Index](/curso-docker/lgpd/readme.md)
+1. [Index](/lgpd/readme.md)
+
+<p>RabbitMQ<p>
+
+1. [Index](/rabbit-mq/readme.md)
+2. [Queues](/rabbit-mq/01.queues.md)
+2. [Reliability](/rabbit-mq/02.reliability.md)
