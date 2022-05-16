@@ -35,4 +35,5 @@
 
 1. [Index](/rabbit-mq/readme.md)
 2. [Queues](/rabbit-mq/01.queues.md)
-2. [Reliability](/rabbit-mq/02.reliability.md)
+3. [Reliability](/rabbit-mq/02.reliability.md)
+4. [RabbitMQ-UI](/rabbit-mq/03.rabbitmqUI.md)
