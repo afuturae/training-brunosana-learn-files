@@ -40,7 +40,7 @@
 
 <p>S.O.L.I.D.</p>
 
-1.[Index](./solid/readme.md)
+1. [Index](./solid/readme.md)
 2. [S. Single Responsibility Principle (Princípio da Responsabilidade Única)](./solid/01.single-responsibility.md)
 3. [O. Open-Closed Principle (Princípio do Aberto Fechado)](./solid/02.open-closed.md)
 4. [L. Liskov Substitution Principle (Princípio de Substituição de Liskov)](./solid/03.liskov-substitution.md)
