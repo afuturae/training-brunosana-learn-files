@@ -27,9 +27,17 @@
 2. [Comandos](/curso-docker/docker-compose/01.comandos.md)
 3. [Mysql com Docker Compose](/curso-docker/docker-compose/02.myqsl-com-docker-compose.md)
 
+### Segurança
+
 <p>LGPD</p>
 
 1. [Index](/lgpd/readme.md)
+
+<p>Email Phishing</p>
+
+1. [Index](./email-phishing/readme.md)
+
+### Microsserviços
 
 <p>RabbitMQ</p>
 
@@ -37,6 +45,8 @@
 2. [Queues](/rabbit-mq/01.queues.md)
 3. [Reliability](/rabbit-mq/02.reliability.md)
 4. [RabbitMQ-UI](/rabbit-mq/03.rabbitmqUI.md)
+
+### Arquitetura
 
 <p>S.O.L.I.D.</p>
 
@@ -47,6 +57,3 @@
 5. [I. Interface Segregation Principle (Princípio da Segregação de Interface)](./solid/04.interface-segregation.md)
 6. [D. Dependency Inversion Principle (Princípio da Inversão de Dependência)](./solid/05.dependency-inversion.md)
 
-<p>Email Phishing</p>
-
-1. [Index](./email-phishing/readme.md)
